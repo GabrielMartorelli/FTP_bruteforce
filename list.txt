@@ -1,0 +1,5 @@
+admin:msfadmin 
+msf:admin 
+admin:admin 
+msf:msf 
+msfadmin:msfadmin 
